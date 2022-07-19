@@ -1,6 +1,8 @@
 # DTSA5510_Unsupervised_Model_Final
 Final project for DTSA5510 Unsupervised Algorithms for Machine Learning
 
+KAGGLE NOTEBOOK FOUND HERE: https://www.kaggle.com/code/mattison/water-pump-classification
+KAGGLE Pump Sensor Data page: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
 
 Water Pump Predictive Maintenance 💧
 *using unsupervised learning techniques*
