@@ -5,6 +5,8 @@ KAGGLE NOTEBOOK FOUND HERE: https://www.kaggle.com/code/mattison/water-pump-clas
 
 KAGGLE Pump Sensor Data page: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
 
+--> Note that the data CSV file was too large to put on github. You can find it at the second link above for the dataset page.
+
 Water Pump Predictive Maintenance 💧
 *using unsupervised learning techniques*
 
