@@ -7,7 +7,7 @@ KAGGLE Pump Sensor Data page: https://www.kaggle.com/datasets/nphantawee/pump-se
 
 --> Note that the data CSV file was too large to put on github. You can find it at the second link above for the dataset page.
 
-Water Pump Predictive Maintenance 💧
+Water Pump Classification 💧
 *using unsupervised learning techniques*
 
 Overview
